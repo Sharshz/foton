@@ -1,0 +1,13 @@
+{
+  "name": "Foton",
+  "shortName": "Foton",
+  "subtitle": "Trade NFTs. Own Base.",
+  "description": "Discover, buy, and sell NFTs on Base. Browse collections, make offers, and trade digital assets - all within Farcaster. Your Web3 gallery awaits.",
+  "shortDescription": "Buy, sell and collect NFTs on Base",
+  "primaryCategory": "utility",
+  "tags": ["nft", "marketplace", "base", "web3", "collectibles"],
+  "splashBackgroundColor": "#0a0a0f",
+  "tagline": "Own the future. Trade on Base.",
+  "requiredChains": ["eip155:8453", "eip155:1"],
+  "shareButtonTitle": "Explore NFTs"
+}

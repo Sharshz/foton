@@ -1,0 +1,32 @@
+{
+  "collection": {
+    "name": "Foton Genesis",
+    "symbol": "FTNG",
+    "slug": "foton-genesis",
+    "description": "The genesis collection of Foton — the Base-native NFT marketplace. Free mint for early users, pay gas only. 2000 unique pieces.",
+    "collectionImagePrompt": "A stunning promotional banner for Foton Genesis NFT collection — photon particles and light waves exploding from a central prism, dark cosmic background, neon cyan and electric purple energy trails, futuristic digital art, no text",
+    "tokenImagePrompt": "A photon particle portrait with light wave energy trails, dark cosmic background, neon cyan and electric purple glow, futuristic digital art, square 1:1 composition, no text, unique light patterns and energy fields for each piece",
+    "tokenNamePrefix": "Foton Genesis",
+    "mintPattern": "mystery",
+    "pricingTier": "free",
+    "network": "base",
+    "maxSupply": 2000,
+    "royaltyBps": 0,
+    "maxPerWallet": 1,
+    "maxPerTx": 1,
+    "pricePerTokenWei": "0",
+    "deploy": {
+      "status": "completed",
+      "contractAddress": "0xec63f0d5d0a3518b8f66534b5f8b1eaa668f6114",
+      "collectionImageUrl": "https://cdn.neynar.com/nft/generated/5ca6abcb-0ae3-443d-8fae-6d7c0ecc23a3/1775741269036-a9ffe328-f517-4cb4-8108-223811106d1d.png",
+      "transactionHash": "0x3348fdf58dff41e216ac9b8ab4c4847338bc98bb2a08e400ba81f7d8500fb07b",
+      "error": null
+    }
+  },
+  "routes": {
+    "mint": { "status": "completed", "error": null },
+    "preview": { "status": "pending", "error": null },
+    "price": { "status": "pending", "error": null }
+  },
+  "client": { "status": "completed", "error": null }
+}
